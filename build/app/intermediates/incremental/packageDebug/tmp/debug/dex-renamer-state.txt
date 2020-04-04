@@ -1,0 +1,4 @@
+#Sat Apr 04 14:55:25 SGT 2020
+base.0=C\:\\Users\\Andi Surya\\AndroidStudioProjects\\aplikasi_bmi_edit\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
